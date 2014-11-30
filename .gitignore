@@ -1,0 +1,18 @@
+.class
+.log
+.classpath
+.project
+.cache
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+-/
+
+# Scala-IDE specific
+.worksheet
+.settings
+.idea
